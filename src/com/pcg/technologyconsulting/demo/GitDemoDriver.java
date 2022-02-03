@@ -1,14 +1,11 @@
-/**
- * 
- */
 package com.pcg.technologyconsulting.demo;
 
 /**
  * @author pfotopoulos
  *
  */
-public class GitDemoDriver {
-
+public class GitDemoDriver 
+{
 	/**
 	 * Default Constructor
 	 */
@@ -24,8 +21,6 @@ public class GitDemoDriver {
 		
 		AnotherMessage obj = new AnotherMessage();
 		
-		obj.print("Hello L&L Participants");
-		
+		obj.print("Hello L&L Participants");	
 	}
-
 }
